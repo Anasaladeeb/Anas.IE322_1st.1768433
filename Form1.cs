@@ -12,7 +12,7 @@ namespace IE322_1st
 {
     public partial class FrmLogin : Form
     {
-        string username = "Ali";
+        string username = "Anas";
         string myPassword = "1234";
         bool loggedin = false;
       
